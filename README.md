@@ -258,13 +258,13 @@ Two primary KPIs to measure the effectiveness of the automated solution:
    - **Reporting Frequency**: Daily with weekly and monthly aggregation
    - **Business Impact**: Directly correlates to customer satisfaction and operational efficiency
 
-2. **Straight-Through Processing Rate (STPR)**:
-   - **Definition**: Percentage of claims that complete the entire process without any human intervention
-   - **Current Baseline**: 0% (all claims require manual handling)
-   - **Target**: 80% of all claims
-   - **Measurement Method**: Count of claims processed entirely by automation divided by total claims
-   - **Reporting Frequency**: Weekly with monthly trend analysis
-   - **Business Impact**: Directly measures automation effectiveness and resource optimization
+2. **Cost Per Claim (CPC)**:
+   - **Definition**: Total operational cost (staff time, system resources, administrative overhead) divided by the number of claims processed
+   - **Current Baseline**: $45 per claim (estimated based on current manual process)
+   - **Target**: $18 per claim (60% reduction)
+   - **Measurement Method**: Tracking total department costs allocated to compensation processing divided by claim volume
+   - **Reporting Frequency**: Monthly with quarterly trend analysis
+   - **Business Impact**: Directly measures cost efficiency and ROI of the automation investment
 
 #### 7. Implementation Approach
 
